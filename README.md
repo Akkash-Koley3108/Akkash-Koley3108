@@ -14,6 +14,13 @@
 - 🟣 .NET  
 - 🟢 ASP.NET  
 - 🟡 SQL  
+- 🔵 React.js  
+- 🟠 TypeScript  
+- 🔴 Angular  
+- 🟤 NoSQL  
+- 🟢 Nest.js *(Learning)*  
+
+
 
 ---
 
