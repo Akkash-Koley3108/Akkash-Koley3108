@@ -43,7 +43,7 @@
 ---
 
 ## 🌱 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/akkash-koley-4b3040226)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-green)](#)  
 
 ---
