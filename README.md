@@ -37,7 +37,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akkash-Koley3108&show_icons=true&theme=radical)  
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akkash-Koley3108&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 ---
 
